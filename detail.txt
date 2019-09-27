@@ -1,0 +1,5 @@
+This project is basically consist of:
+
+1. operartion performed of data structure.
+2. insertion ,deletion and traverse of array element
+3. Insertion, deletion and traverse of linked list 
